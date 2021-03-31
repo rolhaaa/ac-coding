@@ -1,6 +1,7 @@
 # ac-coding
 Grupo: Rolhaaa 
 
+
 Integrantes: 
 
 Rubhia Teixeira: programadora nata, esperta, adora jogos e curte como aulas de programação da escola, deseja seguir essa carreira
@@ -12,7 +13,8 @@ Anna Luiza: escritora maravilhosa, habilidosa com as palavras, gosta de ler e ve
 Letícia Alves: adora conversar, boa em comunicação, gosta de anime, super fofa e gentil.
 ![](https://github.com/rolhaaa/ac-coding/blob/main/leticia.jfif)
 
-Atividades:
+
+Responsabilidades:
 
 Rubhia- responsavel por org anizar as atividades  no github    
 
